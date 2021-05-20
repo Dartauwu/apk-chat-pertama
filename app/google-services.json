@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117088773050",
+    "firebase_url": "https://begain-730c4.firebaseio.com",
+    "project_id": "begain-730c4",
+    "storage_bucket": "begain-730c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117088773050:android:f729c609fa8b1a2cf9b383",
+        "android_client_info": {
+          "package_name": "com.example.kaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117088773050-lddrobeu9r091vuakbuimbpflosmnb3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6iXtuQpCwtg3yFuhqexTFE9yu1_Lol4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117088773050-lddrobeu9r091vuakbuimbpflosmnb3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

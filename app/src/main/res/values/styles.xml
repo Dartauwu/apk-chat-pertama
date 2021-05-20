@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimaryDark">#8D0AA3</item>
+        <item name="colorPrimary">#730585</item>
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+    </style>
+
+        <style
+            name="WithActionBar" parent="Theme.MaterialComponents.Light">
+            <item name="colorPrimaryDark">#8D0AA3</item>
+            <item name="colorPrimary">#730585</item>
+            <item name="colorAccent">@android:color/holo_orange_light</item>
+        </style>
+</resources>
